@@ -1,0 +1,9 @@
+/* styles.css */
+.urgent-care-banner {
+    background-color: #ff4d4d; /* Bright red for urgency */
+    color: white;
+    text-align: center;
+    padding: 15px;
+    font-weight: bold;
+    font-family: Arial, sans-serif;
+}
